@@ -41,37 +41,3 @@
     </div>
   </div>
 </div>
-
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-start;
-  }
-
-  .left, .right {
-    flex: 1;
-    min-width: 300px;
-  }
-
-  .right {
-    text-align: center;
-    margin-top: 20px;
-  }
-
-  .icons a {
-    margin: 5px;
-  }
-
-  @media (max-width: 768px) {
-    .container {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .right {
-      margin-top: 20px;
-    }
-  }
-</style>

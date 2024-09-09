@@ -2,7 +2,7 @@
   <div class="left">
     <h3>Hi there, my name is Antoni Bombała 👋</h3>
     <ul>
-      <li>🔭 Currently learning Ray tracing and Rust</li>
+      <li>🔭 Currently learning Vulkan</li>
       <li>📚 Enrolled at Warsaw University of Life Sciences, studying Computer Science</li>
       <li>💥 My hobbies include ASG and gaming</li>
     </ul>

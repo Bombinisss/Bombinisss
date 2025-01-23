@@ -1,13 +1,4 @@
 <div class="container">
-  <div class="left">
-    <h3>Hi there, my name is Antoni Bombała 👋</h3>
-    <ul>
-      <li>🔭 Currently learning Vulkan</li>
-      <li>📚 Enrolled at Warsaw University of Life Sciences, studying Computer Science</li>
-      <li>💥 My hobbies include ASG and gaming</li>
-    </ul>
-  </div>
-
   <div class="right">
     <h3>Languages and Frameworks:</h3>
     <div class="icons">

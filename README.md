@@ -12,10 +12,10 @@
         <img width="46px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" />
       </a>
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img width="46px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+        <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
       </a>
       <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+        <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
       </a>
       <a href="https://www.docker.com/">
         <img width="46px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />

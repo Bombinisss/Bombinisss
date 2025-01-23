@@ -15,7 +15,7 @@
         <img width="46px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
       </a>
       <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+        <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
       </a>
       <a href="https://www.docker.com/">
         <img width="46px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />
